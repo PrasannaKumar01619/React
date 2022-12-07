@@ -60,7 +60,11 @@ input{
 .inputBlock>input{
     display: block;
 }
-
+.inputBlock>p{
+    font-size: 0.8rem;
+    font-weight: lighter;
+    color: red;
+}
 .button{
 
     display: flex;
